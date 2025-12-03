@@ -1,1 +1,1 @@
-##### Repsoutory containing simple code to learn Rust
+##### Repsoitory containing simple code to learn Rust
